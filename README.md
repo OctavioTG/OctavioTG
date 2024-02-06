@@ -14,5 +14,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </div>
 
-<h3 align="left" src="https://github.com/OctavioTG/OctavioTG/files/14184916/Octavio.Thomas.Giannuzzo_curriculum.1.pdf">CURRICULUM:</h3>
-
+<a href="https://github.com/OctavioTG/OctavioTG/files/14184916/Octavio.Thomas.Giannuzzo_curriculum.1.pdf">
+<h3 align="left">CURRICULUM</h3>
+</a>
