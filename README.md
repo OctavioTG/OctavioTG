@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="[mdn-logo-sm.png](https://github.com/OctavioTG/OctavioTG/assets/116606873/185f5a51-5f95-4ad9-84d7-d7c9c76df7b2)" alt="" />
 
 <!--
 **OctavioTG/OctavioTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
