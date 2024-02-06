@@ -2,7 +2,8 @@
 <img src="https://github.com/OctavioTG/OctavioTG/assets/116606873/185f5a51-5f95-4ad9-84d7-d7c9c76df7b2" alt="my banner" />
 </p>
 
-##<h3 align="left">Lenguajes y herramientas:</h3>
+##
+<h3 align="left">Lenguajes y herramientas:</h3>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
