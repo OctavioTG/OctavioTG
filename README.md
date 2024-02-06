@@ -13,10 +13,3 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </div>
-
-## 📋 Objetivos
-Aprender:
-  - [ ] TypeScript
-  - [ ] Express
-  - [ ] Next JS
-  - [ ] Flutter
