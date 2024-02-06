@@ -17,3 +17,10 @@
 <a href="https://github.com/OctavioTG/OctavioTG/files/14184916/Octavio.Thomas.Giannuzzo_curriculum.1.pdf">
 <h3 align="left">CURRICULUM</h3>
 </a>
+
+## 📋 Objetivos
+Aprender:
+  - [ ] TypeScript
+  - [ ] Express
+  - [ ] Next JS
+  - [ ] Flutter
